@@ -1,0 +1,9 @@
+===================Nomina===================
+Nombre: Ernesto Miramontes
+Horas: 700
+Tarifa: 90
+
+Sueldo: $63000
+Impuesto: $15750
+Sueldo Neto: $47250
+_______________________________
